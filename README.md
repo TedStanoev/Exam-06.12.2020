@@ -9,3 +9,6 @@ It's a single page application for creating tourist destinations to a city in a 
 - Sammy JS for routing
 - Handlebars for templating
 - Firebase for database and authorization
+
+# :camera_flash: Screenshot
+![Screenshot](/screenshots/DestinationsScreenshot.png)
